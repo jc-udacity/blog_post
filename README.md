@@ -28,3 +28,4 @@ I covered the 3 mains question that are:
 ## Results<a name="results"></a>
 You can find a jupyter notebook where all dataset are read and analysis is performed to produce some grpahical outputs.
 You can also read a blog post on Medium website here
+https://medium.com/@piersjea/who-and-where-are-the-ones-playing-with-wind-in-france-93fbff6e3986
